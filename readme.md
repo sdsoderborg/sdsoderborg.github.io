@@ -2,6 +2,6 @@
   <body>
     <h1>Welcome To My Website!</h1>
     <hr>
-    <h1>My Name: Scott Soderborg</h1>
+    <p>My Name: Scott Soderborg</p>
   </body>
 </html>
